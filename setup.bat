@@ -22,14 +22,6 @@ pip install dnspython
 
 cd Dawa - Program
 
-cd Dawa - 2 - Email-Tracker
+cd Dawa - 19 - Discord-Nuker
 
-python setup.py install
-
-cd ..
-
-cd ..
-
-
-
-python main.py
+npm install @discordjs/builders @discordjs/collection @sapphire/async-queue @sapphire/shapeshift @types/node-fetch @types/node @types/ws ansi-styles asynckit chalk color-convert color-name combined-stream delayed-stream discord-api-types discord.js fast-deep-equal form-data has-flag lodash mime-db mime-types node-fetch supports-color tr46 ts-mixer tslib undici-types webidl-conversions whatwg-url ws
