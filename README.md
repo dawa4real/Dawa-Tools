@@ -9,9 +9,11 @@
 **Dawa-Multitool**: A set of powerful tools for gathering and tracking information.
 
 ![Dawa-Tool Logo](https://raw.githubusercontent.com/dawa4real/Dawa-Tools/main/Dawa%20-%20Screen/1.png)
+
 ## **✨ Features**
+
 ### **🔍 OSINT (Open Source Intelligence)**
-![OSINT](https://imgur.com/sjcXyXP)
+![OSINT](https://raw.githubusercontent.com/dawa4real/Dawa-Tools/main/Dawa%20-%20Screen/2.png)
 - [x] 1. **Doxbin**: Tool for collecting and organizing detailed information about a person or entity.
 - [x] 2. **Osint-Framework**: Framework for using various OSINT tools.
 - [x] 3. **Name Tracker**: Tracking names to discover additional information related to a person.
@@ -21,16 +23,18 @@
 - [x] 7. **Dox-Creator**: Tool for creating comprehensive doxes with detailed information.
 - [x] 8. **Simple Dox-Creator**: Simplified version of the dox creator for basic needs.
 - [x] 9. **Search Database**: Database search to find specific information.
+
 ### **💣 Bombing**
-![Bomb](https://cdn.discordapp.com/attachments/1220707381328216095/1312146525815570452/3.png?ex=674b6f2e&is=674a1dae&hm=2b68541d9579a63c851d103826a65164f5a788ac8e67b234d5d0f38c9e8736d8&)
+![Bomb](https://raw.githubusercontent.com/dawa4real/Dawa-Tools/main/Dawa%20-%20Screen/3.png)
 #### **📧 Email-Bomber**
 - [x] 1. **Email-Bomber (Gmail)**: Tool for sending a large number of emails to a target Gmail address.
 - [x] 2. **Email-Bomber (Pass-Reset)**: Tool for sending mass password reset requests.
 #### **🌐 DDOS**
 - [x] 1. **DDOS-IP**: Distributed Denial of Service attack on a specific IP address.
 - [x] 2. **DDOS-WebSite**: Distributed Denial of Service attack on a specific website.
+
 ### **🎁 Dawa Gen**
-![Gen](https://cdn.discordapp.com/attachments/1220707381328216095/1312147841850015764/6.png?ex=674b7068&is=674a1ee8&hm=020e3d4b50f5889744d89889851055089fc8c6d4c2a715d660140f02a1f13f44&)
+![Gen](https://raw.githubusercontent.com/dawa4real/Dawa-Tools/main/Dawa%20-%20Screen/6.png)
 - [x] 1. **Discord-Nitro**: Generates Discord Nitro codes.
 - [x] 2. **Amazon Giftcard**: Generates Amazon gift cards.
 - [x] 3. **Netflix Giftcard**: Generates Netflix gift cards.
@@ -38,8 +42,9 @@
 - [x] 5. **Steam Giftcard**: Generates Steam gift cards.
 - [x] 6. **Google Play**: Generates Google Play gift cards.
 - [x] 7. **Spotify Gift**: Generates Spotify gift cards.
+
 ### **🧨 Dawa Nuker**
-![Discord-Nuker](https://cdn.discordapp.com/attachments/1220707381328216095/1312147426341163048/image.png?ex=674b7004&is=674a1e84&hm=c81b62784442c6bdd411adf955fd53b15d4847a0d263fd3fa29d8a82ed11a78e&)
+![Discord-Nuker](https://raw.githubusercontent.com/dawa4real/Dawa-Tools/main/Dawa%20-%20Screen/4.png)
 - [x] 1. **Mass create channels**: Creates multiple channels at once.  
 - [x] 2. **Mass ping channels**: Sends mass pings to all channels.  
 - [x] 3. **Mass create roles**: Creates multiple roles at once.  
@@ -48,8 +53,9 @@
 - [x] 6. **Delete all emojis**: Deletes all custom emojis.  
 - [x] 7. **Mass kick**: Kicks a large number of members.  
 - [x] 8. **Mass ban**: Bans a large number of members.
+
 ### **🎩 Dawa Exploit**
-![IP-Exploit](https://cdn.discordapp.com/attachments/1220707381328216095/1312148251008303165/5.png?ex=674b70c9&is=674a1f49&hm=49d5d06dc2ee4f1768e6ae522b742db940fddb76d8ff54aa8a6186179268eb03&)
+![IP-Exploit](https://raw.githubusercontent.com/dawa4real/Dawa-Tools/main/Dawa%20-%20Screen/5.png)
 - [x] 1. **IP-All-Lookup**: Retrieve all information about an IP address.
 - [x] 2. **IP-Localisation**: Get the geolocation of an IP address.
 - [x] 3. **IP-Operator**: Identify the Internet Service Provider (ISP) of an IP address.
@@ -57,8 +63,9 @@
 - [x] 5. **IP-Pinger**: Ping an IP address to test connectivity.
 - [x] 6. **IP-Ddos**: Simulate a DDoS attack on an IP address.
 - [x] 7. **IP-Generator**: Generate random or specific IP addresses.
+
 ### **🎩 Dawa Web**
-![Dark-Web](https://cdn.discordapp.com/attachments/1220707381328216095/1312148624024797295/7.png?ex=674b7122&is=674a1fa2&hm=d98a530c21ec24d451dcecb36b9dd598c925ac3928a195db47bb2790db7324ac&)
+![Dark-Web](https://raw.githubusercontent.com/dawa4real/Dawa-Tools/main/Dawa%20-%20Screen/7.png)
 - [x] 1. **MailTor**: Secure email services on the dark web.  
 - [x] 2. **SecureDrop**: Anonymous file-sharing platform.  
 - [x] 3. **DoxBin**: Share and access doxxed information.  
@@ -90,6 +97,8 @@
 - [x] 29. **CannabisHub**: Access to cannabis-related products.  
 - [x] 30. **DarkMining**: Tools for anonymous cryptocurrency mining.  
 - [x] 31. **ccPal**: Anonymous credit card services.  
+
+
 
 ## **📋 Requirements**
 - Python version 3.11.5 ([Click here](https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe))
