@@ -141,5 +141,5 @@ Link : [License link](https://github.com/dawa4real/Dawa-Tools/blob/main/LICENSE)
 
 ## **💬 Support**
 For any questions or assistance, join our Discord server here:
-- **Discord owner** : "fullsafe."
-- **Discord link** : [https://discord.gg/3hjk6AxddC](https://discord.gg/3hjk6AxddC)
+- **Discord owner** : "1s0e"
+- **Discord link** : [https://discord.gg/3hjk6AxddC](https://discord.gg/d3MdFBBbHD)
