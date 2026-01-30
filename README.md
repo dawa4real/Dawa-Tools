@@ -4,11 +4,11 @@
 - [x] Join discord server for claim the best multitool >Dawa-Tools<.
 - [x] Click on ⭐ at the top right to star this repository!
 - [x] I will publish this tool once it reaches 60 stars on GitHub.
+
 ## **🌟 DawaTools #NEW**
 **Dawa-Multitool**: A set of powerful tools for gathering and tracking information.
-<p align="center">
-  <img src="./1.jpg" width="100%">
-</p>
+
+![Dawa-Tool Logo](https://github.com/dawa4real/Dawa-Screen/raw/master/1.png)
 ## **✨ Features**
 ### **🔍 OSINT (Open Source Intelligence)**
 ![OSINT](https://imgur.com/sjcXyXP)
