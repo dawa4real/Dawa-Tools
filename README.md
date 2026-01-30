@@ -5,10 +5,14 @@
 - [x] Click on ⭐ at the top right to star this repository!
 - [x] I will publish this tool once it reaches 60 stars on GitHub.
 
+---
+
 ## **🌟 DawaTools #NEW**
 **Dawa-Multitool**: A set of powerful tools for gathering and tracking information.
 
 ![Dawa-Tool Logo](https://raw.githubusercontent.com/dawa4real/Dawa-Tools/main/Dawa%20-%20Screen/1.png)
+
+---
 
 ## **✨ Features**
 
@@ -24,14 +28,19 @@
 - [x] 8. **Simple Dox-Creator**: Simplified version of the dox creator for basic needs.
 - [x] 9. **Search Database**: Database search to find specific information.
 
+---
+
 ### **💣 Bombing**
 ![Bomb](https://raw.githubusercontent.com/dawa4real/Dawa-Tools/main/Dawa%20-%20Screen/3.png)
 #### **📧 Email-Bomber**
 - [x] 1. **Email-Bomber (Gmail)**: Tool for sending a large number of emails to a target Gmail address.
 - [x] 2. **Email-Bomber (Pass-Reset)**: Tool for sending mass password reset requests.
+
 #### **🌐 DDOS**
 - [x] 1. **DDOS-IP**: Distributed Denial of Service attack on a specific IP address.
 - [x] 2. **DDOS-WebSite**: Distributed Denial of Service attack on a specific website.
+
+---
 
 ### **🎁 Dawa Gen**
 ![Gen](https://raw.githubusercontent.com/dawa4real/Dawa-Tools/main/Dawa%20-%20Screen/6.png)
@@ -42,6 +51,8 @@
 - [x] 5. **Steam Giftcard**: Generates Steam gift cards.
 - [x] 6. **Google Play**: Generates Google Play gift cards.
 - [x] 7. **Spotify Gift**: Generates Spotify gift cards.
+
+---
 
 ### **🧨 Dawa Nuker**
 ![Discord-Nuker](https://raw.githubusercontent.com/dawa4real/Dawa-Tools/main/Dawa%20-%20Screen/4.png)
@@ -54,6 +65,8 @@
 - [x] 7. **Mass kick**: Kicks a large number of members.  
 - [x] 8. **Mass ban**: Bans a large number of members.
 
+---
+
 ### **🎩 Dawa Exploit**
 ![IP-Exploit](https://raw.githubusercontent.com/dawa4real/Dawa-Tools/main/Dawa%20-%20Screen/5.png)
 - [x] 1. **IP-All-Lookup**: Retrieve all information about an IP address.
@@ -63,6 +76,8 @@
 - [x] 5. **IP-Pinger**: Ping an IP address to test connectivity.
 - [x] 6. **IP-Ddos**: Simulate a DDoS attack on an IP address.
 - [x] 7. **IP-Generator**: Generate random or specific IP addresses.
+
+---
 
 ### **🎩 Dawa Web**
 ![Dark-Web](https://raw.githubusercontent.com/dawa4real/Dawa-Tools/main/Dawa%20-%20Screen/7.png)
@@ -98,33 +113,33 @@
 - [x] 30. **DarkMining**: Tools for anonymous cryptocurrency mining.  
 - [x] 31. **ccPal**: Anonymous credit card services.  
 
-
+---
 
 ## **📋 Requirements**
 - Python version 3.11.5 ([Click here](https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe))
 - Node.js ([Click here](https://nodejs.org/en))
+
+---
+
 ## **🛠️ Installation**
 To install Dawa-Tool, follow these steps:
+
 ### **🚀 Steps**
-```
 1. Download the .rar or .zip file.
-```
-```
 2. Extract the file.
-```
-```
 3. Click on the DAWA-TOOL file.
-```
-```
-4. Click on setup.bat
-```
-```
-5. Run the start.bat
-```
-## **:scroll: License**
+4. Click on `setup.bat`.
+5. Run the `start.bat`.
+
+---
+
+## **📜 License**
 Distributed under the GNU Affero General Public License v3.0. See LICENSE for more information.
-Link : [License link](https://github.com/DAWA0/Dawa-Multitool/blob/main/LICENSE)
-## **:speech_balloon: Support**
+Link : [License link](https://github.com/dawa4real/Dawa-Tools/blob/main/LICENSE)
+
+---
+
+## **💬 Support**
 For any questions or assistance, join our Discord server here:
-Discord owner : "fullsafe."
-Discord : "https://discord.gg/3hjk6AxddC"
+- **Discord owner** : "fullsafe."
+- **Discord link** : [https://discord.gg/3hjk6AxddC](https://discord.gg/3hjk6AxddC)
