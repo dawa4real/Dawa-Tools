@@ -6,7 +6,9 @@
 - [x] I will publish this tool once it reaches 60 stars on GitHub.
 ## **🌟 DawaTools #NEW**
 **Dawa-Multitool**: A set of powerful tools for gathering and tracking information.
-![Dawa-Tool Logo](https://raw.githubusercontent.com/dawa4real/Dawa-Screen/master/1.png)
+<p align="center">
+  <img src="./1.jpg" width="100%">
+</p>
 ## **✨ Features**
 ### **🔍 OSINT (Open Source Intelligence)**
 ![OSINT](https://imgur.com/sjcXyXP)
