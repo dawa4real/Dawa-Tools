@@ -7,7 +7,7 @@
 
 ---
 
-## **🌟 DawaTools #NEW**
+## **🌟 DawaTools #Legacy version, partially broken./**
 **Dawa-Multitool**: A set of powerful tools for gathering and tracking information.
 
 ![Dawa-Tool Logo](https://raw.githubusercontent.com/dawa4real/Dawa-Tools/main/Dawa%20-%20Screen/1.png)
