@@ -6,10 +6,10 @@
 - [x] I will publish this tool once it reaches 60 stars on GitHub.
 ## **🌟 DawaTools #NEW**
 **Dawa-Multitool**: A set of powerful tools for gathering and tracking information.
-![Dawa-Tool Logo](https://cdn.discordapp.com/attachments/1220707381328216095/1312146023807713330/1.png?ex=674b6eb6&is=674a1d36&hm=096301e9ff268647f163fe394b29ce7e9ea09166a3d54aa825b36a3f6ce26b57&)
+![Dawa-Tool Logo](https://imgur.com/a/pnPfjlb)
 ## **✨ Features**
 ### **🔍 OSINT (Open Source Intelligence)**
-![OSINT](https://cdn.discordapp.com/attachments/1220707381328216095/1312146268977627278/2.png?ex=674b6ef1&is=674a1d71&hm=079f0d6f6604b6fd5cc09314de71eeaf182c43e68956aa3ef53fade4dc1b6179&)
+![OSINT](https://imgur.com/sjcXyXP)
 - [x] 1. **Doxbin**: Tool for collecting and organizing detailed information about a person or entity.
 - [x] 2. **Osint-Framework**: Framework for using various OSINT tools.
 - [x] 3. **Name Tracker**: Tracking names to discover additional information related to a person.
