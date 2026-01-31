@@ -57,9 +57,9 @@ def clear_screen():
 import webbrowser
 import os
 
-discord_link = 'https://discord.gg/RDQtQQUbfC'
+discord_link = 'https://discord.gg/mBmyMd2zHd'
 gif_path = fr"{path}\Dawa - Screen\Star !!.gif"
-github_link = 'https://github.com/DAWA0/Dawa-Multitool'
+github_link = 'https://github.com/dawa4real/Dawa-Tools'
 
 
 if not os.path.isfile('first_execution.txt'):
